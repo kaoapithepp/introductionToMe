@@ -11,7 +11,7 @@ This is an introduction to me.
 
 **Intermediate :heart_eyes:**
 - Flutter
-- HTMl
+- HTML
 
 **In Interests :no_mouth:**
 - Node.js
