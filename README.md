@@ -8,10 +8,11 @@ This is an introduction to me.
 **Experienced :+1:**
 - C++
 - Java
+- HTML
 
 **Intermediate :heart_eyes:**
 - Flutter
-- HTML
+- CSS
 
 **In Interests :no_mouth:**
 - Node.js
