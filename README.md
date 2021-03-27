@@ -8,13 +8,11 @@ This is an introduction to me.
 **Experienced :+1:**
 - C++
 - Java
-- HTML
+- HTML/CSS
 
 **Intermediate :heart_eyes:**
-- Flutter
-- CSS
+- React
+- Javascript (Node.js)
 
 **In Interests :no_mouth:**
-- Node.js
-- Javascript
 - python (OpenCV)
