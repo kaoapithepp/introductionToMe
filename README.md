@@ -8,11 +8,11 @@ This is an introduction to me.
 **Experienced :+1:**
 - C++
 - Java
+- Javascript
 - HTML/CSS
 
 **Intermediate :heart_eyes:**
-- React
-- Javascript (Node.js)
+- React.js, React Native
 
 **In Interests :no_mouth:**
 - python (OpenCV)
