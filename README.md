@@ -6,10 +6,10 @@ This is an introduction to me.
 
 ### Coding Languages & Interests
 **Experienced :+1:**
-- C++
+- C, C++
 - Java
 - Javascript
-- HTML/CSS
+- HTML, CSS
 
 **Intermediate :heart_eyes:**
 - React.js, React Native
