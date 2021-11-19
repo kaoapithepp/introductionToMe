@@ -1,7 +1,7 @@
 ## Apithep P.
 This is an introduction of me.
 
-- Currently Studying in junior year of **Computer Engineering, Chiang Mai University.**
+- Currently studying in junior year of **Computer Engineering, Chiang Mai University.**
 - I am a CEO of **Gettó Co.** , yet also a **Full-stack Developer**.
 
 ### Coding Languages
