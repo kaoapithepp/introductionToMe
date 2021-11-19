@@ -12,10 +12,11 @@ This is an introduction of me.
 
 
 **Improving ✏️**
-- python
+- Python
 - Node.js
-- Vue.js
+- Haskell
+- Java
+- C++
 
 **In Interests 🔥**
-- Java
-- C, C++
+- Jupyter
