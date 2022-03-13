@@ -21,7 +21,7 @@ This is an introduction of me.
 - C++
 
 **In Interests 🔥**
-- Web3 programming
+- Web3 Programming
 - Digital Image Processing
 - Bioinformatics Programming
 - Functional Programming
