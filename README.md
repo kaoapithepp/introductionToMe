@@ -13,8 +13,8 @@ This is an introduction of me.
 
 
 **Improving ✏️**
-- Python
 - Node.js, Express.js
+- Solidity
 - Mongoose
 - Haskell
 - Java
