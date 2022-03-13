@@ -1,7 +1,7 @@
 ## Apithep P.
 This is an introduction of me.
 
-- Currently studying in junior year of **Computer Engineering, Chiang Mai University.**
+- Currently studying junior year in **Computer Engineering, Chiang Mai University.**
 - I am a CEO of **Gettó Co.** , and also a **Full-stack Developer**.
 
 ### Coding Languages
@@ -9,17 +9,19 @@ This is an introduction of me.
 - Javascript
 - React.js
 - HTML, CSS
+- MySQL
 
 
 **Improving ✏️**
 - Python
-- Node.js
-- MySQL
+- Node.js, Express.js
+- Mongoose
 - Haskell
 - Java
 - C++
 
 **In Interests 🔥**
+- Web3 programming
 - Digital Image Processing
 - Bioinformatics Programming
 - Functional Programming
