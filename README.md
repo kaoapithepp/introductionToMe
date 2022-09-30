@@ -1,26 +1,16 @@
 ## Apithep P.
-This is an introduction of me.
+I am a senior student at Computer Engineering, CMU. I am parallelly running my own startup 
+which working about sustainable businesses named Getto, doing “Orange — Short shelf life 
+goods platform” at the moment.
 
-- Currently studying junior year in **Computer Engineering, Chiang Mai University.**
-- I am a CEO of **Gettó Co.** , and also a **Full-stack Developer**.
+### Computer Languages
+**Eligible 🎓**: Javascript, SQL, Solidity, Python, Haskell
+**Improving ✏️**: Typescript, Java, C++
 
-### Coding Languages
-**Proficient 🎓**
-- Javascript
-- React.js
-- HTML, CSS
-- MySQL
+### Programming Frameworks
+*React.js*, Node.js, Express.js, Web3.js
 
-
-**Improving ✏️**
-- Node.js, Express.js
-- Solidity
-- Mongoose
-- Haskell
-- Java
-- C++
-
-**In Interests 🔥**
+**Interesting in 🔥**
 - Web3 Programming
 - Digital Image Processing
 - Bioinformatics Programming
