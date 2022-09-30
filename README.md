@@ -5,10 +5,11 @@ goods platform” at the moment.
 
 ### Computer Languages
 **Eligible 🎓**: Javascript, SQL, Solidity, Python, Haskell
+
 **Improving ✏️**: Typescript, Java, C++
 
 ### Programming Frameworks
-*React.js*, Node.js, Express.js, Web3.js
+**React.js**, Node.js, Express.js, Web3.js
 
 **Interesting in 🔥**
 - Web3 Programming
