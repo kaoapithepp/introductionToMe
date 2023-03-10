@@ -4,12 +4,12 @@ which working about sustainable businesses named Getto, doing “Orange — Shor
 goods platform” at the moment.
 
 ### Computer Languages
-**Eligible 🎓**: Javascript, SQL, Solidity, Python, Haskell
+**Eligible 🎓**: JavaScript, TypeScript SQL, Solidity, Python, Haskell
 
 **Improving ✏️**: Typescript, Java, C++
 
 ### Programming Frameworks
-**React.js**, Node.js, Express.js, Web3.js
+**React.js**, Express.js, Node.js, Web3.js
 
 **Interesting in 🔥**
 - Web3 Programming
