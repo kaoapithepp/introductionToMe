@@ -4,9 +4,9 @@ I am working as a software developer at 20ScoopsCNX and simultaneously running a
 Eventually, I am seeking for a cooperation and partnership for our OmegaAI. If you want to keep our mankind continue, we can do them together.
 
 ### Computer Languages
-**Eligible 🎓**: JavaScript, TypeScript, SQL, Solidity, Python, Haskell
+**Eligible 🎓**: JavaScript, TypeScript, SQL, Solidity
 
-**Improving ✏️**: Typescript, Java, C++
+**Improving ✏️**: Python, Java
 
 ### Programming Frameworks
 **React.js**, **Express.js**, Node.js, Web3.js
