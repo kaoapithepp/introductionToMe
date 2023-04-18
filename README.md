@@ -20,4 +20,6 @@ Eventually, I am seeking for a cooperation and partnership for our OmegaAI. If y
 - Web3 Programming
 
 
-<a href="https://app.daily.dev/kaoapitheppdev"><img src="https://api.daily.dev/devcards/c76edcdced3d4718a250c0653ccf4878.png?r=374" width="260" alt="Kao Apithep's Dev Card"/></a>
+<a href="https://app.daily.dev/kaoapitheppdev">
+  <img src="https://api.daily.dev/devcards/c76edcdced3d4718a250c0653ccf4878.png?r=374" width="240" alt="Kao Apithep's Dev Card"/>
+</a>
