@@ -12,7 +12,7 @@ Eventually, I am seeking for a cooperation and partnership for our OmegaAI. If y
 **React.js**, **Express.js**, Node.js, Web3.js
 
 ### Data Engineering
-**IBM DataStage**, QlikSense, HUE SQL Assistant
+**AWS Glue**, **AWS Kinesis**, IBM DataStage, QlikSense, HUE SQL Assistant
 
 **Interesting in 🔥**
 - Machine Learning
